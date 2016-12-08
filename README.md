@@ -4,7 +4,7 @@ ViciBoard is a free dashboard for ViciDIAL
 
 Project homepage for more information: https://5gigahertz.com/viciboard.html
 
-Quick installation instructions for impatient:
+Quick installation instructions for the impatient:
 
 1. Clone this repositiory into your /htdocs directory of a web-serving system installed with the Vicibox Server ISO. You'll likely need to update your server's certificate bundle: zypper install ca-certificates{,-cacert,-mozilla}
 
