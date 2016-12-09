@@ -1,6 +1,6 @@
 # ViciBoard
 
-ViciBoard is a free dashboard for ViciDIAL
+ViciBoard is a free dashboard for VICIdial.
 
 Project homepage for more information: https://5gigahertz.com/viciboard.html
 
